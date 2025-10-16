@@ -1,0 +1,21 @@
+# Binaries
+*.exe
+*.out
+
+# Go build cache
+*.log
+*.test
+
+# Go modules cache
+vendor/
+bin/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Env files
+.env
